@@ -1,6 +1,6 @@
 🍻 Hey, I'm @metalw4rrior. The stuff I post here makes common sense nervously pace and swear.
 
-🧑‍💻 I'm involved in complete nonsense, like Linux administration and studying DevSecOps.
+🧑‍💻 I'm involved in complete nonsense, like Linux administration and DevOps.
 
 ⚰️ Maybe someday I'll become a competent IT professional, but that day is as far away as China.
 <!---
